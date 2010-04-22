@@ -1,0 +1,6 @@
+<diaporama ordre="sequential" fadeTime="10" diapoInterval="4" fontSize="10" alignement="center" echelle="true" >
+<image url="photo1.jpg"   titre="A flower!" description="the  description of first picture" />
+<image url="photo2.jpg" titre="" description=""/>
+<image url="photo3.jpg" titre="Third flower" description="You've noticed that number 2 had no title nor description?"/>
+<image url="photo4.jpg"  titre="" description=""/>
+</diaporama>

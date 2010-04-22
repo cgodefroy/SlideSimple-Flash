@@ -1,0 +1,8 @@
+﻿<diaporama ordre="random" fadeTime="10" diapoInterval="4" echelle="false" fontSize="10" alignement="right" bgimage="" loop="true">
+<image url="photos/photo1.jpg"   titre="Demo titre 1" description="La description de l'image 1"/>
+<image url="photos/photo2.jpg" titre="photo2" description="" destination="http://www.google.com" />
+<image url="photos/photo3.jpg" titre="Titre 3" description="" destination="http://www.google.com" target="_new"/>
+<image url="photos/photo4.jpg"  titre="" description=""/>
+<image url="photos/photo5.jpg"  titre="" description=""/>
+<image url="photos/photo6.jpg"  titre="" description=""/>
+</diaporama>

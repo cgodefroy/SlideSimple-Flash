@@ -1,0 +1,6 @@
+<diaporama ordre="sequential" fadeTime="10" diapoInterval="4" fontSize="10" alignement="center">
+<image url="photo1.jpg"   titre="Demo titre 1" description="La description de l'image 1" destination="http://cyrilgodefroy.com/" target="_blank" />
+<image url="photo2.jpg" titre="" description=""/>
+<image url="photo3.jpg" titre="Titre 3" description=""/>
+<image url="photo4.jpg"  titre="" description=""/>
+</diaporama>
